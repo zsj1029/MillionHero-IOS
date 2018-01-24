@@ -94,9 +94,9 @@ var jieping = function(time){
 var caijian = function(){
     //980
 	var bitmap = gdip.bitmap(imgpath);
-	var bitmagNew = gdip.bitmap(370,350);
+	var bitmagNew = gdip.bitmap(370,370);
 	var graphics = bitmagNew.getGraphics();
-	graphics.drawImageRectRect(bitmap,0,0,380,350,20,150,380,350)
+	graphics.drawImageRectRect(bitmap,0,0,380,370,20,130,380,370)
 	bitmagNew.save("C:\screenshot\screenshot_block.png")
 }
 
