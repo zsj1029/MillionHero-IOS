@@ -5,7 +5,7 @@
 
 ### 程序全面兼容 西瓜、冲顶、芝士、花椒
 
-> - TODO IOS版
+> - ~~TODO IOS版~~
 
 #Update
 > - 2018-01-24 更新IOS版，省去安卓截屏时间，更加有效率，平均不足3秒。安卓版传送门[链接](https://github.com/zsj1029/MillionHero)
